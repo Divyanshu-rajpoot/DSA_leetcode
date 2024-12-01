@@ -9,6 +9,6 @@ public class first{
 			arr[i] = 10;
 		};
 		System.out.println(Arrays.toString(arr));
-		System.out.println(Arrays.);
+
 	}
 }

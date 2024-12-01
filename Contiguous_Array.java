@@ -7,7 +7,7 @@ public class Contiguous_Array {
         int[] prefix = new int[arr.length];
         prefix[0] = sum;
         for (int i = 1; i < prefix.length; i++) {
-            if()
+
         }
 
 

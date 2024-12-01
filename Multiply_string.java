@@ -11,5 +11,6 @@ public class Multiply_string {
         StringBuilder num2str = new StringBuilder(num2);
         num1str.reverse(); //reverse the strings
         num2str.reverse();  //reverse the strings
+        return "";
     }
 }
